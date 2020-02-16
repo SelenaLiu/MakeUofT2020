@@ -1,0 +1,3 @@
+multiprocessing
+RPi.GPIO
+requests
